@@ -1,0 +1,18 @@
+body{
+  background-color: bisque;
+}
+.main-heading{
+ color:brown;
+  font-size: 48px;
+  font-weight: 200;
+  font-family: Arial;
+  font-style: italic;
+  letter-spacing: 0.1em;
+  text-align: center;
+  text-decoration: underline;
+}
+.art-content{
+  color: coral;
+  font-style: 18px;
+  line-height: 1.3em;
+}
